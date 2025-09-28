@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 
-git clone https://github.com/your-username/catalogus-neuro.git \
+git clone https://github.com/Hashmaster82/catalogus_neuro.git \
 cd catalogus-neuro
 
 Установите зависимости:
